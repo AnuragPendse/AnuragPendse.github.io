@@ -2,7 +2,7 @@
 title: My Academic Website
 description: Personal site with research, projects, and other interests.
 baseurl: ""
-url: "https://<username>.github.io"
+url: "https://AnuragPendse.github.io"
 markdown: kramdown
 theme: jekyll-theme-minimal
 author: Your Name
